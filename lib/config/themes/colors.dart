@@ -1,0 +1,30 @@
+import 'package:flutter/material.dart';
+
+const colorCinnamon = Color(0xFF6E5E00);
+const colorCola = Color(0xFF211B00);
+const colorDeepFir = Color(0xFF00210C);
+const colorFog = Color(0xFFD9E2FF);
+const colorGoldTips = Color(0xFFE5C510);
+const colorFunGreen = Color(0xFF006D37);
+const colorMidNight = Color(0xFF001945);
+const colorMustard = Color(0xFFFFE259);
+const colorNeutral = Color(0xffd9d9d9);
+const colorPorcelain = Color(0xFFF8FAFA);
+const colorRoofTerracotta = Color(0xFFB4271D);
+const colorScienceBlue = Color(0xFF0057CC);
+const colorScreaminGreen = Color(0xFF6BFE9C);
+const colorShark = Color(0xFF191C1D);
+const colorWhite = Colors.white;
+const colorCapeCod = Color(0xFF363A3A);
+
+const colorNeutral96 = Color(0xFFF2F4F4);
+const colorNeutral95 = Color(0xFFEFF1F1);
+const colorNeutral94 = Color(0xFFECEEEF);
+const colorNeutral80 = Color(0xFFC4C7C7);
+const colorNeutral70 = Color(0xFFA9ACAC);
+const colorNeutral60 = Color(0xFF8E9192);
+const colorNeutral50 = Color(0xFF747878);
+const colorNeutral40 = Color(0xFF5C5F5F);
+const colorNeutral22 = Color(0xFF323536);
+const colorNeutral17 = Color(0xFF272B2B);
+const colorNeutral06 = Color(0xFF101415);
